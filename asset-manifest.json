@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.31d6cfe0.css",
-    "main.js": "/static/js/main.d00d93fa.js",
-    "index.html": "/index.html",
-    "main.d00d93fa.js.map": "/static/js/main.d00d93fa.js.map"
+    "main.css": "https://github.io/static/css/main.31d6cfe0.css",
+    "main.js": "https://github.io/static/js/main.d00d93fa.js",
+    "index.html": "https://github.io/index.html",
+    "main.d00d93fa.js.map": "https://github.io/static/js/main.d00d93fa.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
