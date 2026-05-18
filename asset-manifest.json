@@ -1,12 +1,10 @@
 {
   "files": {
-    "main.css": "https://github.io/static/css/main.31d6cfe0.css",
     "main.js": "https://github.io/static/js/main.352ceda6.js",
     "index.html": "https://github.io/index.html",
     "main.352ceda6.js.map": "https://github.io/static/js/main.352ceda6.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
     "static/js/main.352ceda6.js"
   ]
 }
