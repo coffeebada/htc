@@ -2,7 +2,7 @@
   "name": "harmonica-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/coffeebada/htc",
+  "homepage": "https://coffeebada.github.io/htc/",
   "dependencies": {
     "lucide-react": "^0.400.0",
     "react": "^18.2.0",
@@ -18,12 +18,11 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-"eslintConfig": {
-  "extends": [
-    "react-app"
-  ]
-},
-
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
   "browserslist": {
     "production": [
       ">0.2%",
@@ -37,6 +36,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.3.0"
   }
 }
